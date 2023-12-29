@@ -71,6 +71,7 @@
             "description": "Your Choice",
             "value": "True",
             "required": true
+    }
     },
     "addons": [],
     "buildpacks": [{
