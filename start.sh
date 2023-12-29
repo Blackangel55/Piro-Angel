@@ -8,5 +8,5 @@ else
 fi
 cd /PiroAutoFilterBot
 pip3 install -U -r requirements.txt
-echo "Starting tgmoviespro1bot...."
+echo "Starting ziabot...."
 python3 bot.py
