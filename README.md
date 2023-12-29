@@ -1,18 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙽𝚈𝙰+𝙱𝙾𝚃+!;𝙰+𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻+𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃+!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+@𝙰𝙼_𝙵𝙸𝙻𝙼𝚂!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙿𝙸𝚁𝙾-𝙰𝙽𝙶𝙴𝙻+𝙱𝙾𝚃+!;𝙰+𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻+𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃+!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+@𝙰𝙼_𝙵𝙸𝙻𝙼𝚂!)</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://te.legra.ph/file/85c75538ff6fb565c821a.jpg" alt="anya bot logo">
+<img src="https://graph.org/file/7b7d15ed77f1dcee3a4a5.jpg" alt="Piro-Angel bot logo">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-
-
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/stargazers"><img src="https://img.shields.io/github/stars/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/network/members"> <img src="https://img.shields.io/github/forks/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot"> <img src="https://img.shields.io/github/repo-size/ritheshrkrm/PiroAutoFilterBot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### Features
 
@@ -60,13 +51,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/info.py) for more
+* Check [info.py](https://github.com/Blackangel55/Piro-Angel/blob/master/info.py) for more
 
 ### Deployment Methods
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ritheshrkrm/PiroAutoFilterBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Blackangel55/Piro-Angel">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
